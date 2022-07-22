@@ -3183,9 +3183,9 @@ dependencies = [
 
 [[package]]
 name = "jsonrpsee"
-version = "0.2.0-alpha.6"
+version = "0.15.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f4e48ecdd757b22fae87e87aad2dbadf11c56499c6509763c8ef20db16ffb0e9"
+checksum = "1d966710cd10f992b87107c3b54f9301738892cf5692a5730a362957cc927e3c"
 
 [[package]]
 name = "jsonrpsee-proc-macros"
